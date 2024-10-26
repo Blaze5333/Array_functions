@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "array_functions"
+name = "array_stat_functions"
 version = "0.1.0"
