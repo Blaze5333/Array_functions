@@ -1,0 +1,8 @@
+[package]
+name = "array_functions"
+version = "0.1.0"
+edition = "2021"
+description = "Array and Statistics functions in rust"
+license = "MIT"
+
+[dependencies]
